@@ -1,0 +1,9 @@
+/Users/oleksiistetsyk/Desktop/Thesis_implementation/build/CMakeFiles/rebuild_cache.dir
+/Users/oleksiistetsyk/Desktop/Thesis_implementation/build/CMakeFiles/edit_cache.dir
+/Users/oleksiistetsyk/Desktop/Thesis_implementation/build/src/CMakeFiles/rebuild_cache.dir
+/Users/oleksiistetsyk/Desktop/Thesis_implementation/build/src/CMakeFiles/edit_cache.dir
+/Users/oleksiistetsyk/Desktop/Thesis_implementation/build/src/CMakeFiles/Thesis_lib.dir
+/Users/oleksiistetsyk/Desktop/Thesis_implementation/build/src/CMakeFiles/Thesis_run.dir
+/Users/oleksiistetsyk/Desktop/Thesis_implementation/build/test/CMakeFiles/rebuild_cache.dir
+/Users/oleksiistetsyk/Desktop/Thesis_implementation/build/test/CMakeFiles/edit_cache.dir
+/Users/oleksiistetsyk/Desktop/Thesis_implementation/build/test/CMakeFiles/Thesis_tst.dir

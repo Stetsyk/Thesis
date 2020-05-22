@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libThesis_lib.a  CMakeFiles/Thesis_lib.dir/ABProtocol.cpp.o CMakeFiles/Thesis_lib.dir/PrimesGenerator.cpp.o CMakeFiles/Thesis_lib.dir/Utils.cpp.o CMakeFiles/Thesis_lib.dir/main.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libThesis_lib.a
